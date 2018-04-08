@@ -1,0 +1,4 @@
+[
+    { "keys": ["ctrl+d"], "command": "delete_space"},
+    { "keys": ["ctrl+t"], "command": "translate"}
+]
